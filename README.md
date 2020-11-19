@@ -28,6 +28,6 @@ I will generally use `numpy` in Jupyter notebooks to take notes, using LaTeX whe
 | 15      | Representation Learning                           |                                          |             |
 | 16      | Structured Probabilistic Models for Deep Learning |                                          |             |
 | 17      | Monte Carlo Methods                               |                                          |             |
-| 18      | Confronting the PartitionFunction                 |                                          |             |
+| 18      | Confronting the Partition Function                |                                          |             |
 | 19      | Approximate Inference                             |                                          |             |
 | 20      | Deep Generative Models                            |                                          |             |
