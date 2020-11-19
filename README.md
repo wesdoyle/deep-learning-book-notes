@@ -5,3 +5,26 @@ the topics covered in the excellent book "Deep Learning" by Ian Goodfellow,
 Yoshua Bengio, and Aaron Courville.
 
 I will generally use `numpy` in Jupyter notebooks to take notes and provide LaTeX where it may help.
+
+| Chapter | Name                                              | Link                                     | Status      |
+|---------|---------------------------------------------------|------------------------------------------|-------------|
+| 01      | Introduction                                      |                                          |             |
+| 02      | Linear Algebra                                    | [Chapter 02]( chapter_02_linear_algebra) | In Progress |
+| 03      | Probability and Information Theory                |                                          |             |
+| 04      | Numerical Computation                             |                                          |             |
+| 05      | Machine Learning Basics                           |                                          |             |
+| 06      | Deep Feedforward Networks                         |                                          |             |
+| 07      | Regularization for Deep Learning                  |                                          |             |
+| 08      | Optimization for Training Deep Models             |                                          |             |
+| 09      | Convolutional Networks                            |                                          |             |
+| 10      | Sequence Modeling: Recurrent and Recursive Nets   |                                          |             |
+| 11      | Practical Methodology                             |                                          |             |
+| 12      | Applications                                      |                                          |             |
+| 13      | Linear Factor Models                              |                                          |             |
+| 14      | Autoencoders                                      |                                          |             |
+| 15      | Representation Learning                           |                                          |             |
+| 16      | Structured Probabilistic Models for Deep Learning |                                          |             |
+| 17      | Monte Carlo Methods                               |                                          |             |
+| 18      | Confronting the PartitionFunction                 |                                          |             |
+| 19      | Approximate Inference                             |                                          |             |
+| 20      | Deep Generative Models                            |                                          |             |
