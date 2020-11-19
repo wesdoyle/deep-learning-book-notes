@@ -1,4 +1,4 @@
-# Deep Learning Book
+# Deep Learning Book Notes
 
 This repository contains my reading notes and attempts at implementations of 
 the topics covered in the excellent book "Deep Learning" by Ian Goodfellow, 
