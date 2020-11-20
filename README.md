@@ -1,7 +1,7 @@
 # Deep Learning Book Notes
 
 This repository contains my reading notes and attempts at implementations of 
-the topics covered in the excellent book "Deep Learning" by Ian Goodfellow, 
+the topics covered in the excellent book ["Deep Learning"](https://www.deeplearningbook.org/) by Ian Goodfellow, 
 Yoshua Bengio, and Aaron Courville.
 
 The goal of this repository is to provide a mix of hands-on Python examples, notes, external links, 
