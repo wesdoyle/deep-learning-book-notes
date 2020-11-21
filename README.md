@@ -9,6 +9,9 @@ and practical projects as a means of study to accompany the theoretical topics o
 
 I will generally use `numpy` in Jupyter notebooks to take notes, using LaTeX where it may help.
 
+__Note__ that there are many errors in formatting and several glyphs when GitHub renders LaTeX in the embedded Jupyter notebooks here.  These should render properly locally if you clone the repositories and open them in Jupyter. I'm running the notebooks in Chrome on macOS.
+
+
 | Chapter | Name                                              | Link                                     | Status      |
 |---------|---------------------------------------------------|------------------------------------------|-------------|
 | 01      | Introduction                                      |                                          |             |
