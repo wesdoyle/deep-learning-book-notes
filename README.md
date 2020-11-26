@@ -16,7 +16,7 @@ __Note__ that there are many errors in formatting and several glyphs when GitHub
 |---------|---------------------------------------------------|------------------------------------------|-------------|
 | 01      | Introduction                                      |                                          |             |
 | 02      | Linear Algebra                                    | [Chapter 02]( chapter_02_linear_algebra) | In Progress |
-| 03      | Probability and Information Theory                |                                          |             |
+| 03      | Probability and Information Theory                | [Chapter 03]( chapter_03_probability_and_information_theory) | In Progress |
 | 04      | Numerical Computation                             |                                          |             |
 | 05      | Machine Learning Basics                           |                                          |             |
 | 06      | Deep Feedforward Networks                         |                                          |             |
